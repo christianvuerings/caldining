@@ -43,7 +43,7 @@ gulp.task('nodemon', function(cb) {
   });
 });
 
-gulp.task('browser-sync', ['nodemon'], function() {
+gulp.task('browser-sync', ['index', 'nodemon'], function() {
   var port = process.env.PORT || 5000;
   browserSync.init({
     files: ['public/**/*.*'],
@@ -94,7 +94,7 @@ gulp.task('js', function() {
     .pipe(gulp.dest('public/js'));
 });
 
-gulp.task('index', function() {
+gulp.task('index', ['images', 'js', 'css', 'fonts'], function() {
   var inject = require('gulp-inject');
   var vulcanize = require('gulp-vulcanize');
   var target = gulp.src('./src/index.html');
@@ -119,14 +119,7 @@ gulp.task('build-clean', function(cb) {
   ], cb);
 });
 
-gulp.task('build', function(callback) {
-  var runSequence = require('run-sequence');
-  runSequence('build-clean',
-    ['images', 'js', 'css', 'fonts'],
-    'index',
-    'browser-sync',
-    callback);
-});
+gulp.task('build', ['images', 'js', 'css', 'fonts', 'index', 'browser-sync']);
 
 gulp.task('lint', function() {
   gulp.src([
