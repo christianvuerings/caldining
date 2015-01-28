@@ -767,25 +767,29 @@ html /deep/ [segment], html /deep/ segment {
 </polymer-element>
 </div>
 
-    <core-ajax auto="" url="//gdata.youtube.com/feeds/api/videos/" params="{&quot;alt&quot;:&quot;json&quot;, &quot;q&quot;:&quot;chrome&quot;}" handleas="json"></core-ajax>
+    <core-ajax auto="" url="//calapi.herokuapp.com/api/caldining" params="{&quot;alt&quot;:&quot;json&quot;}" handleas="json"></core-ajax>
 
-    <template repeat="{{response.feed.entry}}">
-      <div>{{title.$t}}</div>
+    <template repeat="{{response}}">
+      <div>{{name}}</div>
     </template>
 
     <script>
-      document.addEventListener('polymer-ready', function() {
-        var ajax = document.querySelector("core-ajax");
-        ajax.addEventListener("core-response",
-          function(e) {
-            document.querySelector('template').model = {
-              response: e.detail.response
-            };
-          }
-        );
-      });
-    </script>
+      (function() {
+        'use strict';
 
+        document.addEventListener('polymer-ready', function() {
+          var ajax = document.querySelector('core-ajax');
+          ajax.addEventListener('core-response',
+            function(e) {
+              console.log(e);
+              document.querySelector('template').model = {
+                response: e.detail.response
+              };
+            }
+          );
+        });
+      })();
+    </script>
 
     <!-- inject:js -->
     <script src="js/app.js"></script>
