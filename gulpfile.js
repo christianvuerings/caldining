@@ -11,7 +11,7 @@ var paths = {
     js: mainBowerFiles({
       base: './bower_components',
       filter: /.*\.js$/i
-    }).concat(['src/js/lib-base/**/*.js', 'src/js/lib/**/*.js', 'src/js/**/*.js']),
+    }).concat(['src/js/**/*.js']),
     html: 'src/index.html'
   },
   build: {
@@ -87,9 +87,11 @@ gulp.task('fonts', function() {
 gulp.task('js', function() {
   var uglify = require('gulp-uglify');
   var concat = require('gulp-concat');
+  var debug = require('gulp-debug');
 
   return gulp.src(paths.src.js)
-    .pipe(uglify())
+    .pipe(debug())
+    //.pipe(uglify())
     .pipe(concat('app.js'))
     .pipe(gulp.dest('public/js'));
 });
