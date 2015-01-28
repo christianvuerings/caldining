@@ -1,6 +1,12 @@
 # Unofficial unsupported CalDining application
 https://caldining.herokuapp.com
 
+## Start server
+
+```
+gulp
+```
+
 ## Deploy
 
 ### Initial setup
