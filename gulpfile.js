@@ -1,17 +1,16 @@
 var gulp = require('gulp');
 var filter = require('gulp-filter');
 var browserSync = require('browser-sync');
-var mainBowerFiles = require('main-bower-files');
 
 var paths = {
   src: {
     css: ['src/css/**/*.css'],
     fonts: 'src/fonts/**/*.*',
     img: 'src/img/**/*.*',
-    js: mainBowerFiles({
-      base: './bower_components',
-      filter: /.*\.js$/i
-    }).concat(['src/js/**/*.js']),
+    js: [
+      'bower_components/webcomponentsjs/webcomponents.js',
+      'src/js/**/*.js'
+    ],
     html: 'src/index.html'
   },
   build: {

@@ -26,7 +26,6 @@
     "gulp-uglify": "^1.1.0",
     "gulp-vulcanize": "^5.0.0",
     "imagemin-pngcrush": "^4.0.0",
-    "main-bower-files": "^2.5.0",
     "run-sequence": "^1.0.2"
   },
   "scripts": {

@@ -1,0 +1,1511 @@
+[
+    {
+        "url": "http://services.housing.berkeley.edu/FoodPro/dining/static/DiningMenus.asp?dtCurDate=1/29/2015&strCurLocation=01&strCurLocationName=CROSSROADS",
+        "items": [
+            {
+                "title": "Breakfast",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=910056*3",
+                        "text": "Brown Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=031001*6",
+                        "text": "Hot Oatmeal",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=153004*4",
+                        "text": "Steamed Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=081002*2",
+                        "text": "Applewood Smoked Bacon",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=233001*1",
+                        "text": "French Toast",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=151019*4",
+                        "text": "Mexican Home Fries",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=061004*3",
+                        "text": "Organic Scrambled Eggs",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=103203*4",
+                        "text": "Soyrizo Scramble",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=061038*3",
+                        "text": "Spinach & Feta Scramble",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=061003*1",
+                        "text": "Fried Eggs",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=234041*6",
+                        "text": "Omelet Bar w/Organic Eggs",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=139088*1",
+                        "text": "Breakfast Bear Muffin Sandwich",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=247005*1",
+                        "text": "Assorted Mini Danish",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    }
+                ]
+            },
+            {
+                "title": "Lunch",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=024034*6",
+                        "text": "Butternut Squash and Apple Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=023028*6",
+                        "text": "Ital Wedding Soup w/Meatballs",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=106520*3",
+                        "text": "Organic Black Bean/Corn Salad",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=075004*4",
+                        "text": "Beef Stew",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=163007*3",
+                        "text": "Medley of Fresh Vegetables",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=161001*3",
+                        "text": "Mixed Vegetables",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=153004*4",
+                        "text": "Steamed Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=103314*3",
+                        "text": "Vegan Fall Quinoa Risotto",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=161039*3",
+                        "text": "Caribbean Blend Vegetables",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=103004*4",
+                        "text": "West Coast Pasta",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=244019*1",
+                        "text": "Grilled Chicken Breast",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=138012*1",
+                        "text": "Malibu Burger W/Bun",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=131033*1",
+                        "text": "Quarterpound Southwest Burger",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=151025*3",
+                        "text": "Waffle Fries",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=234030*1",
+                        "text": "Baked Tofu Burrito",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=234029*1",
+                        "text": "Chicken Burrito",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=101089*1",
+                        "text": "Cheese Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=234142*1",
+                        "text": "Hawaiian Pizza (contains pork)",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=234139*1",
+                        "text": "Pepperoni Pizza",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=171054*1",
+                        "text": "Carrot Cake",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=172079*1",
+                        "text": "Shortbread Cookies",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=172125*1",
+                        "text": "Triple Chocolate Brownie",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    }
+                ]
+            },
+            {
+                "title": "Dinner",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=026040*6",
+                        "text": "Lentil Soup",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=106520*3",
+                        "text": "Organic Black Bean/Corn Salad",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=026037*6",
+                        "text": "White Chicken Chili with Cilantro",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=082023*3",
+                        "text": "Fresh Vegetable Medley",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=163081*4",
+                        "text": "Green Beans in Coconut Milk",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=153023*3",
+                        "text": "Jasmine Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=244078*4",
+                        "text": "Lemon Baked Basa",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=111041*5",
+                        "text": "Lemongrass Chicken",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=103110*4",
+                        "text": "Stir Fry Tofu w/Vegetable (contains alcohol)",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=103260*4",
+                        "text": "Balsamic Roasted Brussels Sprouts",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=145003*2",
+                        "text": "Clam Sauce",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=155017*4",
+                        "text": "Linguini",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=147060*2",
+                        "text": "Marinara Sauce Vegan",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=151064*4",
+                        "text": "Crisscut Yukon French Fries",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=103166*4",
+                        "text": "Field Rst Italian Sausage Vgn",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=132023*1",
+                        "text": "Italian Sausage Sub Sandwich",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=131107*1",
+                        "text": "Popeye Burger",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=234030*1",
+                        "text": "Baked Tofu Burrito",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=234052*1",
+                        "text": "Carnitas Burrito",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=101089*1",
+                        "text": "Cheese Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=101109*1",
+                        "text": "Pineapple Pepper Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=101045*1",
+                        "text": "Tomato and Pesto Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=171054*1",
+                        "text": "Carrot Cake",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=172079*1",
+                        "text": "Shortbread Cookies",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=01&locationName=CROSSROADS&dtdate=1%2F29%2F2015&RecNumAndPort=172125*1",
+                        "text": "Triple Chocolate Brownie",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "latitude": 37.867029,
+            "longitude": -122.25616,
+            "address": "2415 Bowditch Street, Berkeley"
+        },
+        "name": "Crossroads"
+    },
+    {
+        "url": "http://services.housing.berkeley.edu/FoodPro/dining/static/DiningMenus.asp?dtCurDate=1/29/2015&strCurLocation=03&strCurLocationName=CAFE",
+        "items": [
+            {
+                "title": "Breakfast",
+                "items": []
+            },
+            {
+                "title": "Lunch/Brunch",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=061004*3",
+                        "text": "Organic Scrambled Eggs",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=061012*3",
+                        "text": "Organic Scrambled Eggs w/Cheese",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=083005*1",
+                        "text": "Pork Sausage Patty",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=031001*6",
+                        "text": "Hot Oatmeal",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=233001*1",
+                        "text": "French Toast",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=213005*1",
+                        "text": "Strawberry  Topping",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=178019*1",
+                        "text": "Whipped Topping",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=023028*6",
+                        "text": "Ital Wedding Soup w/Meatballs",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=234041*6",
+                        "text": "Omelet Bar w/Organic Eggs",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=165029*3",
+                        "text": "Mexican Roasted Vegetables",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=153008*3",
+                        "text": "Spanish Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=234022*1",
+                        "text": "Taco Bar",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=234030*1",
+                        "text": "Baked Tofu Burrito",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=234029*1",
+                        "text": "Chicken Burrito",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=203054*1",
+                        "text": "Chocolate Chip Scones",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=203011*1",
+                        "text": "Banana Chocolate Chip Muffins Vegan",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=173011*4",
+                        "text": "Blueberry Crisp",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=172099*1",
+                        "text": "Rice Krispie Cocoa Puff Bar (contains pork gelatin)",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=174006*1",
+                        "text": "Key Lime Pie",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=145039*2",
+                        "text": "Alfredo Sauce",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=155009*3",
+                        "text": "Bowtie",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=147060*2",
+                        "text": "Marinara Sauce Vegan",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=101093*1",
+                        "text": "Greens Pizza Vegan",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=234145*1",
+                        "text": "Meat Lovers Pizza",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=234139*1",
+                        "text": "Pepperoni Pizza",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=106522*2",
+                        "text": "Organic Broccoli & Tomato Salad",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    }
+                ]
+            },
+            {
+                "title": "Dinner",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=024034*6",
+                        "text": "Butternut Squash and Apple Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=023023*6",
+                        "text": "Chicken Tortilla Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=153002*3",
+                        "text": "Brown Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=244065*4",
+                        "text": "Mary's Free Range Huli Huli Chicken",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=153004*3",
+                        "text": "Steamed Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=104001*3",
+                        "text": "Stir-Fry Cabbage with Sesame",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=101055*4",
+                        "text": "Baked Rigatoni W/ White Sauce",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=201002*1",
+                        "text": "French Breadstick",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=161001*3",
+                        "text": "Mixed Vegetables",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=103008*4",
+                        "text": "Vegetable Chow Mein",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=104005*3",
+                        "text": "Vegan \"Chicken\" Huli Huli (contains alcohol)",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=138012*1",
+                        "text": "Malibu Burger W/Bun",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=131107*1",
+                        "text": "Popeye Burger",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=151010*3",
+                        "text": "Shoestring French Fries",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=101089*1",
+                        "text": "Cheese Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=101093*1",
+                        "text": "Greens Pizza Vegan",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=234145*1",
+                        "text": "Meat Lovers Pizza",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=106524*3",
+                        "text": "Organic Marinated Beets",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=03&locationName=CAFE+3&dtdate=1%2F29%2F2015&RecNumAndPort=023015*8",
+                        "text": "Mai's Chicken Kao Soi Ndl Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "latitude": 37.867047,
+            "longitude": -122.260878,
+            "address": "2400 Durant Avenue, Berkeley"
+        },
+        "name": "Café 3"
+    },
+    {
+        "url": "http://services.housing.berkeley.edu/FoodPro/dining/static/DiningMenus.asp?dtCurDate=1/29/2015&strCurLocation=06&strCurLocationName=FOOTHILL",
+        "items": [
+            {
+                "title": "Breakfast",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=031005*4",
+                        "text": "Cheesey Grits",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=031001*6",
+                        "text": "Hot Oatmeal",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=081002*2",
+                        "text": "Applewood Smoked Bacon",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=234041*2",
+                        "text": "Omelet Bar w/Organic Eggs",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=061004*3",
+                        "text": "Organic Scrambled Eggs",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=151046*3",
+                        "text": "Shredded Hashbrown Potatoes",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=232008*1",
+                        "text": "Belgian Waffles",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=233001*1",
+                        "text": "French Toast",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=201052*1",
+                        "text": "6\" Flour Tortilla",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=153036*4",
+                        "text": "Brown Basmati Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=103173*3",
+                        "text": "Tofu Sausage Rumble",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=205020*1",
+                        "text": "Assorted Bagels",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=172011*1",
+                        "text": "Assorted Danish",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=203054*1",
+                        "text": "Chocolate Chip Scones",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=203011*1",
+                        "text": "Banana Chocolate Chip Muffins Vegan",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": true
+                    }
+                ]
+            },
+            {
+                "title": "Lunch",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=024034*6",
+                        "text": "Butternut Squash and Apple Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=023023*6",
+                        "text": "Chicken Tortilla Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=106516*3",
+                        "text": "Organic Orzo Salad W/ Carrots",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=141003*3",
+                        "text": "Chicken Gravy",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=151039*4",
+                        "text": "Fresh Buttery Mashed Potatoes",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=111004*1",
+                        "text": "Fried Mary's Chicken",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=910078*3",
+                        "text": "Steamed Broccoli",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=138016*4",
+                        "text": "Vegan \"Chicken\" Nuggets",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=153036*3",
+                        "text": "Brown Basmati Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=022006*6",
+                        "text": "Cream of Tomato Soup",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=151006*4",
+                        "text": "French Fries",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=111061*1",
+                        "text": "Grilled Chicken Breast",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=138039*1",
+                        "text": "Malibu Burger w/Bun",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=139044*1",
+                        "text": "Tomato & Pesto Grilled Cheese",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=103342*4",
+                        "text": "Garlic Fried Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=163048*4",
+                        "text": "Stir Fried Bok Choy",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=071009*3",
+                        "text": "Teriyaki Beef",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=101089*1",
+                        "text": "Cheese Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=234139*1",
+                        "text": "Pepperoni Pizza",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=173011*4",
+                        "text": "Blueberry Crisp",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=172099*1",
+                        "text": "Rice Krispie Cocoa Puff Bar (contains pork gelatin)",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=174006*1",
+                        "text": "Key Lime Pie",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    }
+                ]
+            },
+            {
+                "title": "Dinner",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=024034*6",
+                        "text": "Butternut Squash and Apple Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=023023*6",
+                        "text": "Chicken Tortilla Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=106516*3",
+                        "text": "Organic Orzo Salad W/ Carrots",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=167004*3",
+                        "text": "Black Beans",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=091009*6",
+                        "text": "Mary's Free Range Chicken  Mole",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=153008*4",
+                        "text": "Spanish Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=010046*2",
+                        "text": "Vegan Taquitos",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=153036*3",
+                        "text": "Brown Basmati Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=111061*1",
+                        "text": "Grilled Chicken Breast",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=138039*1",
+                        "text": "Malibu Burger w/Bun",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=131008*1",
+                        "text": "Quarterpound Beef Hamburgers",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=151004*4",
+                        "text": "Tater Tots",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=103218*1",
+                        "text": "Falafel Bar",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=101089*1",
+                        "text": "Cheese Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=234139*1",
+                        "text": "Pepperoni Pizza",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=173011*4",
+                        "text": "Blueberry Crisp",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=173010*1",
+                        "text": "Cherry Cobbler",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=06&locationName=FOOTHILL&dtdate=1%2F29%2F2015&RecNumAndPort=171130*1",
+                        "text": "Gluten Free Cheese Cake",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "latitude": 37.875443,
+            "longitude": -122.255818,
+            "address": "2700 Hearst Avenue, Berkeley"
+        },
+        "name": "Foothill"
+    },
+    {
+        "url": "http://services.housing.berkeley.edu/FoodPro/dining/static/DiningMenus.asp?dtCurDate=1/29/2015&strCurLocation=04&strCurLocationName=CLARK",
+        "items": [
+            {
+                "title": "Breakfast",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=153023*4",
+                        "text": "Jasmine Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=151001*4",
+                        "text": "Potato Wedges",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=083005*1",
+                        "text": "Pork Sausage Patty",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=234104*1",
+                        "text": "Smoked Chicken Apple Sausage",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=247009*1",
+                        "text": "Assorted Danish",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=203089*1",
+                        "text": "Blueberry Muffin",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=231014*1",
+                        "text": "Heartland Pancakes",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=061001*1",
+                        "text": "Organic Boiled Eggs",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=061004*3",
+                        "text": "Organic Scrambled Eggs",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=103062*3",
+                        "text": "Scrambled Tofu/Spinach/Tom",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=138008*1",
+                        "text": "Soyrizo Potato Wrap",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=031001*6",
+                        "text": "Hot Oatmeal",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=205001*2",
+                        "text": "Bagel Bar Veggie Toppings",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=234049*1",
+                        "text": "Cheddar Cheese",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=211119*1",
+                        "text": "Fresh Pico De Gallo",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=046001*3",
+                        "text": "Low Fat Cottage Cheese",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=046004*3",
+                        "text": "Peach Yogurt",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=046010*1",
+                        "text": "Plain Greek Yogurt",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=046009*3",
+                        "text": "Strawberry Yogurt",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    }
+                ]
+            },
+            {
+                "title": "Lunch",
+                "items": []
+            },
+            {
+                "title": "Dinner",
+                "items": [
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=024034*6",
+                        "text": "Butternut Squash and Apple Soup",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=023028*6",
+                        "text": "Ital Wedding Soup w/Meatballs",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=071000*10",
+                        "text": "Bibimbap Korean Rice Bowl",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=091009*4",
+                        "text": "Mary's Free Range Chicken  Mole",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=165029*4",
+                        "text": "Mexican Roasted Vegetables",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=163016*3",
+                        "text": "Steamed Cabbage",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=202005*1",
+                        "text": "Roll",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=050060*5",
+                        "text": "Spanish Brown Rice",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=134021*1",
+                        "text": "Grilled Chicken Caesar Wrap",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=151047*4",
+                        "text": "Seoul Fries",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=171054*1",
+                        "text": "Carrot Cake",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=172079*1",
+                        "text": "Shortbread Cookies",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=172125*1",
+                        "text": "Triple Chocolate Brownie",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": true
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=234007*1",
+                        "text": "Carmelized Onion ,Arugula & Asiago Flatbread",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=101089*1",
+                        "text": "Cheese Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=101120*1",
+                        "text": "Deluxe Vegetable Pizza",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=103145*5",
+                        "text": "Korean Braised Tofu Stew",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=047047*3",
+                        "text": "Antipasto Platter",
+                        "vegetarian": true,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=041003*2",
+                        "text": "Hummus Spread",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=104011*4",
+                        "text": "Jicama & Carrot Slaw",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=201009*1",
+                        "text": "Pita Bread",
+                        "vegetarian": false,
+                        "vegan": true,
+                        "honeyBearBakery": false
+                    },
+                    {
+                        "link": "http://services.housing.berkeley.edu/FoodPro/dining/static/label.asp?locationNum=04&locationName=CLARK+KERR&dtdate=1%2F29%2F2015&RecNumAndPort=183005*6",
+                        "text": "Pineapple",
+                        "vegetarian": false,
+                        "vegan": false,
+                        "honeyBearBakery": false
+                    }
+                ]
+            }
+        ],
+        "location": {
+            "latitude": 37.863323,
+            "longitude": -122.24989,
+            "address": "2601 Warring Street, Berkeley"
+        },
+        "name": "Clark Kerr"
+    }
+]

@@ -1,3 +1,47 @@
 body {
-  background: #fff;
+  background: #444;
+  font-family: 'RobotoDraft', sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+.caldining-header {
+  background-color: #4F7DC9;
+  color: #FFF;
+  font-size: 18px;
+  padding: 20px 10px;
+  -webkit-transition: height 0.2s;
+  transition: height 0.2s;
+}
+
+.caldining-list {
+}
+
+.caldining-list-item {
+  border: none;
+  float: left;
+  font-family: 'RobotoDraft', sans-serif;
+  font-size: 15px;
+  height: 20vh;
+  margin-top: 5px;
+  min-height: 50px;
+  will-change: transform;
+}
+
+.caldining-list .caldining-list-item:nth-of-type(1) {
+  background: #7e57c2;
+  color: #fff;
+}
+.caldining-list .caldining-list-item:nth-of-type(2) {
+  background: #03A9F4;
+  color: #fff;
+}
+.caldining-list .caldining-list-item:nth-of-type(3) {
+  background: #ffeb3b;
+}
+.caldining-list .caldining-list-item:nth-of-type(4) {
+  background: #ff5252;
+  color: #fff;
 }

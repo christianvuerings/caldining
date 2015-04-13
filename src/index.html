@@ -10,30 +10,51 @@
     <!-- inject:css -->
     <!-- endinject -->
 
+    <!-- We do need to inject webcomponents.js before the polymer elements load -->
+    <!-- inject:js -->
+    <!-- endinject -->
+
+    <link rel="import" href="../bower_components/font-roboto/roboto.html">
     <link rel="import" href="../bower_components/polymer/polymer.html">
     <link rel="import" href="../bower_components/core-ajax/core-ajax.html">
+    <link rel="import" href="../bower_components/core-header-panel/core-header-panel.html">
+    <link rel="import" href="../bower_components/core-selector/core-selector.html">
+    <link rel="import" href="../bower_components/core-animated-pages/core-animated-pages.html">
   </head>
-  <body>
+  <body fullbleed vertical layout unresolved>
 
-    <core-ajax auto url="//calapi.herokuapp.com/api/caldining"
-      params='{"alt":"json"}'
-      handleAs="json"></core-ajax>
+    <core-header-panel flex>
+      <div class="caldining-header">
+        Cal Dining
+      </div>
+      <div class="caldining-list">
+<!--         <core-animated-pages id="pages" class="caldining-list" layout vertical on-core-animated-pages-transition-end="{{transitionend}}" transitions="cross-fade-all hero-transition">
+          <template id="caldining-list" repeat="{{items}}">
+            <div class="caldining-list-item">{{name}}</div>
+          </template>
+        </core-animated-pages> -->
+        <core-selector class="caldining-list" layout vertical>
+          <template id="caldining-list" repeat="{{items}}">
+            <button class="caldining-list-item">{{name}}</button>
+          </template>
+        </core-selector>
+      </div>
+    </core-header-panel>
 
-    <template repeat="{{response}}">
-      <div>{{name}}</div>
-    </template>
+    <core-ajax id="caldining-main" auto url="//calapi.herokuapp.com/api/caldining" params='{"alt":"json"}' handleAs="json"></core-ajax>
 
     <script>
       (function() {
         'use strict';
 
         document.addEventListener('polymer-ready', function() {
-          var ajax = document.querySelector('core-ajax');
+          var ajax = document.querySelector('#caldining-main');
           ajax.addEventListener('core-response',
             function(e) {
-              console.log(e);
-              document.querySelector('template').model = {
-                response: e.detail.response
+              console.log(e.detail.response);
+              console.log(document.querySelector('#caldining-list'));
+              document.querySelector('#caldining-list').model = {
+                items: e.detail.response
               };
             }
           );
@@ -41,7 +62,6 @@
       })();
     </script>
 
-    <!-- inject:js -->
-    <!-- endinject -->
+
   </body>
 </html>
